@@ -6,25 +6,25 @@ In this week, we will be welcoming our students to their first week of our Full-
 
 ### Slide Shows
 
-* [1.1 - Zen of Coding](01-Day/Slide-Shows)
-* [1.2 - Git'n Pro with HTML/CSS](02-Day/Slide-Shows)
-* [1.3 - Heroes of CSS](03-Day/Slide-Shows)
+* [1.1 - Zen of Coding](../04-Slides/Zen_of_Coding.pptx)
+* [1.2 - Git'n Pro with HTML/CSS](../04-Slides/DownDirtyCSS.pptx)
+* [1.3 - Heroes of CSS](../04-Slides/Heroes_of_CSS.pptx)
 
 ### Homework Activities
 
-* [Build Your Portfolio Page (Recommended Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/recommended-homework-assignment.md)
-* [Build A Wireframe Layout (Easier Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/easier-homework-assignment.md)
+* [Build Your Portfolio Page (Recommended Homework)](../06-Homework/Instructions/recommended-homework-assignment.md)
+* [Build A Wireframe Layout (Easier Homework)](../06-Homework/Instructions/easier-homework-assignment.md)
 
 ### Key Activities
 
-* [MyFirstHTML](../../../01-Class-Content/01-html-git-css/01-Activities/03-MyFirstHTML)
-* [HTML/CSS Layout](../../../01-Class-Content/01-html-git-css/01-Activities/06-HTML_CSS_Layout)
-* [Float Layout](../../../01-Class-Content/01-html-git-css/01-Activities/09-FloatLayout-Activity)
-* [Position Example](../../../01-Class-Content/01-html-git-css/01-Activities/10-CSS_PositionedLayout)
+* [MyFirstHTML](../01-Activities/03-MyFirstHTML)
+* [HTML/CSS Layout](../01-Activities/06-HTML_CSS_Layout)
+* [Float Layout](../01-Activities/09-FloatLayout-Activity)
+* [Position Example](../01-Activities/10-CSS_PositionedLayout)
 
 ### Supplemental Resources
 
-* [Basic Git Push Guide (Highly Recommended)](02-Day/Supplemental/GitHub-Help)
+* [Basic Git Push Guide (Highly Recommended)](../03-Supplemental/GitHub-Help)
 
 ### Helpful Links
 
