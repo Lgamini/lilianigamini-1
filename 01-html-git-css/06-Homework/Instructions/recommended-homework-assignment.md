@@ -89,7 +89,7 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 6. Dimensions:
    * The entire content and the main section content area is `960px` wide.
-   * Pro-tip: Use the [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension to measure the size of elements.
+   * Pro-tip: Use the [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme?hl=en) extension to measure the size of elements.
 
    ![Recommended Dimensions](Images/Recommended-Dimensions.png)
 
