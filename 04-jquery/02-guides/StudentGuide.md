@@ -8,8 +8,8 @@ In this week we will be introducing students to their first taste of jQuery. In 
 
 * [4.1 - jQuery Begins](../04-Slides/jQueryBegins.pptx)
 * [4.1 - jQuery Begins Tu_Th](../04-Slides/jQueryBegins_TuTh.pptx)
-* [4.2 - jQuery Jubilee](../04/Slides/jQueryJubilee.pptx)
-* [4.2 - jQuery Jubilee Tu_Th](../04/Slides/jQueryJubilee_TuTh.pptx)
+* [4.2 - jQuery Jubilee](../04-Slides/jQueryJubilee.pptx)
+* [4.2 - jQuery Jubilee Tu_Th](../04-Slides/jQueryJubilee_TuTh.pptx)
 
 ### Homework Activities
 
@@ -19,11 +19,11 @@ In this week we will be introducing students to their first taste of jQuery. In 
 ### Key Activities
 
 * [JSDrinkList](../01-Activities/02-JSDrinkList)
-* [jQueryDrinkList](../.01-Activities/04-jQueryDrinkList)
-* [SandwichClick](../.01-Activities/06-SandwichClick)
-* [LotteryGenerator](../.01-Activities/08-LotteryGenerator)
-* [Captain Planet Game](../.01-Activities/10-CaptainPlanetGame)
-* [Crystal Collector Basic](../.01-Activities/12-CrystalExample)
+* [jQueryDrinkList](../01-Activities/04-jQueryDrinkList)
+* [SandwichClick](../01-Activities/06-SandwichClick)
+* [LotteryGenerator](../01-Activities/08-LotteryGenerator)
+* [Captain Planet Game](../01-Activities/10-CaptainPlanetGame)
+* [Crystal Collector Basic](../01-Activities/12-CrystalExample)
 
 ### Helpful Links
 
