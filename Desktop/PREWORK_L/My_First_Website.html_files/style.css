@@ -1,0 +1,48 @@
+/* Reset */
+@import url(scrollbar.css);
+* { margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+img { border: 0; -webkit-transform: rotateZ(0.1deg) translateZ(0); -ms-transform: rotateZ(0.1deg) translateZ(0); -o-transform: rotateZ(0.1deg) translateZ(0); transform: rotateZ(0.1deg) translateZ(0); }
+
+/*CONTAINER*/
+#wrapper { font-family: Arial, Helvetica, sans-serif; width: 728px; height: 90px; background: #FFF; position: absolute; overflow: hidden; border: 1px solid #000; top: 0px; left: 0px; opacity: 0; background-repeat: no-repeat; }
+#banner { position: absolute; width: 486px; height: 90px; top: 0px; left: 0px; cursor:pointer; z-index: 9999; }
+/*ISI*/
+#isi { width: 244px; top: 0px; left: 482px; height: 74px; position: absolute; z-index: 20; background: #FFF; padding-top: 3px; }
+#isi * { transform: translate3d(0, 0, 0); -webkit-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); -o-transform: :translate3d(0, 0, 0); -moz-transform: :translate3d(0, 0, 0); }
+.container { overflow: auto; position: relative; width: 244px; height: auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 10px; color: #58585a; }
+.all-themes .container { width: 244px; height: 70px; float: left; }
+.container-title { font-size: 10px; color: #46c0e0; margin: 4px 0px 0px 14px; font-weight: bold; width: 214px; letter-spacing: 0.1px; }
+.container-text { font-size: 10px; color: #666666; margin: 7px 0 0 14px; line-height: 12px; width: 214px; letter-spacing: -0.2px; }
+.bold { font-weight: bold; }
+sup{
+	line-height: 0px;
+	vertical-align: 2px;
+	font-size: 8px;
+}
+/*CONDICIONAL FIREFOX*/
+@-moz-document url-prefix() {
+	.container-text { letter-spacing: -0.5px; }
+	.list li { letter-spacing: -0.5px; }
+}
+/*END ISI*/
+
+/*STEP 1*/
+#bg { position: absolute; width: 498px; height: 180px; top: -1px; left: -1px; }
+#logo { position: absolute; width: 102px; height: auto; top: -1px; left: -1px; z-index: 10; }
+#txt1 { position: absolute; width: 241px; height: auto; top: 30px; left: 93px; }
+#txt1_2 { position: absolute; width: 229px; height: auto; top: 80px; left: 91px; }
+#blue { position: absolute; width: 6px; height: 90px; top: 0px; left: 481px; z-index:30; }
+#txt_bottom_isi { position: absolute; width: 243px; height: auto; top: 72px; left: 484px; }
+#prescribing { position: absolute; width: 130px; height: 11px; top: 75px; left: 490px; background: #FFF; opacity: 0; cursor: pointer; z-index: 9999; }
+#medication { position: absolute; width: 92px; height: 11px; top: 75px; left: 626px; background: #FFF; opacity: 0; cursor: pointer; z-index: 9999;}
+
+/*STEP 2*/
+#txt2 { position: absolute; width: 267px; height: auto; top: 7px; left: 96px; opacity: 0}
+
+/*STEP 3*/
+#bg2 { position: absolute; width: 728px; height: 139px; top: 137px; left: -1px;}
+#txt3 { position: absolute; width: 196px; height: auto; top: 116px; left: 92px;opacity: 0 }
+
+/*STEP 4*/
+#txt4 { position: absolute; width: 258px; height: auto; top: 17px; left: 110px;opacity: 0}
+#cta { position: absolute; width: 120px; height: auto; top: 91px; left: 110px; cursor: pointer; z-index: 20;}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    #map {
+        height: 600px;
+        width: 100%;
+    }
+</style>
+</head>
+<body>
+  
+
+<div>
+        
+</div>
+<script>
+     function initMap() {
+         var location = {lat: 32.852760, lng: -117.183020};
+         var map = new google.maps.Map(document.getElementById("map"), {
+             zoom: 10,
+             center: location
+         });
+         var marker = new google.maps.Marker({
+            position: location,
+             map: map
+    
+        });
+        
+       }
+</script>
+<script async defer src= "https://maps.googleapis.com/maps/api/js?key=AIzaSyANFwAMfnyZN_TFxlsj-2yMxwcmmjKKCP4&callback=initMap"></script>
+
+</body>
+</html>

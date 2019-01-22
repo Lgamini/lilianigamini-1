@@ -1,0 +1,22 @@
+body {
+    font-family: Lobster;
+    font-size: 30px;
+    line-height: 34px;
+    color:red;
+    /* background-color: rgb(18, 228, 210); */
+    background-image: url("../images/medicalpic.jpg");
+    background-size: auto;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* general */
+  
+  .container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+  }
